@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheryar Malik</h1>
-<h3 align="center">| Bioinformatician | Data Scientist | Artificial Intelligence Developer |ML learner and Data Analytics | Bioinformatician | NGS |  Researcher | </h3>
+<h3 align="center">| Bioinformatician | Data Scientist | Artificial Intelligence Developer |ML learner and Data Analytics | NGS |  Researcher | </h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/9WsD.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shari01&label=Profile%20views&color=0e75b6&style=flat" alt="shari01" /> </p>
