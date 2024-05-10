@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sheryar Malik</h1>
-<h3 align="center">| Bioinformatician | Data Scientist | Artificial Intelligence Developer |ML learner and Data Analytics | Computer Vision | Researcher |</h3>
+<h3 align="center">| Bioinformatician | Data Scientist | Artificial Intelligence Developer |ML learner and Data Analytics | Bioinformatician | NGS |  Researcher | </h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/9WsD.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shari01&label=Profile%20views&color=0e75b6&style=flat" alt="shari01" /> </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence**
+- 🔭 I’m currently work as a **Bioinformatic Scientist at Ayass Bioscience**
 
-- 💬 Ask me about **| Python | AI | ML |**
+- 💬 Ask me about **| Bioinformatician | NGS | Machine Learning | Python |**
 
 - 📫 How to reach me **sheryarmalik1403@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A8mLmcDGadqZIb9Wmzm7UsbL1BAC0uEa/view?usp=sharing](https://drive.google.com/file/d/1A8mLmcDGadqZIb9Wmzm7UsbL1BAC0uEa/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/11QT5K7QDnhgPVSYoVk87zVXDCYAL5SVU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
