@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm I'm Sheryar Malik</h1>
 <h3 align="center">| Bioinformatician | Data Scientist |Machine Learning | NGS | Precision Medicine | Data Analytics | Researcher |</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/9WsD.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/9WsD.gif](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shari01&label=Profile%20views&color=0e75b6&style=flat" alt="shari01" /> </p>
 
 - 🔭 I’m currently working as **🔬 Passionate Bioinformatics Scientist 🧬 | Ayass Bioscience, Texas, USA 🌟**
