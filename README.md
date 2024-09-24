@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm I'm Sheryar Malik</h1>
 <h3 align="center">| Bioinformatician | Data Scientist |Machine Learning | NGS | Precision Medicine | Data Analytics | Researcher |</h3>
 
-- 🔭 I’m currently working on **precision medicine for cancer patients, focusing on personalized treatment strategies for various types of cancer.**
+- 🔭 I’m currently working as **🔬 Passionate Bioinformatics Scientist 🧬 | Ayass Bioscience, Texas, USA 🌟**
 
 - 👯 I’m looking to collaborate on **bioinformatics projects, especially those involving precision medicine, cancer genomics, machine learning, and multi-omics data analysis.**
 
