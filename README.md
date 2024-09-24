@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm I'm Sheryar Malik</h1>
 <h3 align="center">| Bioinformatician | Data Scientist |Machine Learning | NGS | Precision Medicine | Data Analytics | Researcher |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shari01&label=Profile%20views&color=0e75b6&style=flat" alt="shari01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shari01" alt="shari01" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@shahryer_malik" target="blank"><img src="https://img.shields.io/twitter/follow/@shahryer_malik?logo=twitter&style=for-the-badge" alt="@shahryer_malik" /></a> </p>
 
 - 🔭 I’m currently working on **precision medicine for cancer patients, focusing on personalized treatment strategies for various types of cancer.**
@@ -19,6 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/@shahryer_malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shahryer_malik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sheryar-malik-621182280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheryar-malik-621182280/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/9nrawvmbhvjjxtrp/?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/9nrawvmbhvjjxtrp/?mibextid=lqqj4d" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shahryer_malik?igsh=czg3dzyxenhnejjy&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahryer_malik?igsh=czg3dzyxenhnejjy&utm_source=qr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
