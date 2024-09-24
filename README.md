@@ -1,7 +1,7 @@
-![logo]([https://github.co](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw1lRyw1Kq4h7SgHyE299ocR&ust=1727252951454000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjGheeU24gDFQAAAAAdAAAAABAV)
 <h1 align="center">Hi 👋, I'm I'm Sheryar Malik</h1>
 <h3 align="center">| Bioinformatician | Data Scientist |Machine Learning | NGS | Precision Medicine | Data Analytics | Researcher |</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw1lRyw1Kq4h7SgHyE299ocR&ust=1727252951454000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjGheeU24gDFQAAAAAdAAAAABAV">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shari01&label=Profile%20views&color=0e75b6&style=flat" alt="shari01" /> </p>
+
 - 🔭 I’m currently working as **🔬 Passionate Bioinformatics Scientist 🧬 | Ayass Bioscience, Texas, USA 🌟**
 
 - 👯 I’m looking to collaborate on **bioinformatics projects, especially those involving precision medicine, cancer genomics, machine learning, and multi-omics data analysis.**
