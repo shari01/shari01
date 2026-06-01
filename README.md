@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheryar Malik</h1>
-<h3 align="center">Bioinformatics Scientist · AI Engineer · Data Scientist · Researcher</h3>
+<h3 align="center">Bioinformatics Engineer · AI Engineer · Data Scientist · Researcher</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shari01&label=Profile%20views&color=0e75b6&style=flat" alt="shari01" />
