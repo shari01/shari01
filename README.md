@@ -2,8 +2,6 @@
 <h3 align="center">Bioinformatics Scientist · AI Engineer · Data Scientist · Researcher</h3>
 <h4 align="center">Precision Medicine · Cancer Genomics · Agentic AI · Drug Discovery · Multi-Omics · NGS</h4>
 
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shari01&label=Profile%20views&color=0e75b6&style=flat" alt="shari01" />
 </p>
@@ -23,26 +21,10 @@
 
 ---
 
-### 🚀 Featured Work
-
-🔬 **Agentic Disease Drug Discovery Engine**
-A modular, disease-agnostic ReAct agent pipeline using GPT-4 reasoning, ChEMBL/DGIdb/OpenTargets validation, dual LLM classifier-verifier architecture, TIER_A/B confidence scoring, and automated HTML report generation. Validated across 7+ diseases (CKD, AML, GBM, SLE, IPF, T2D, Melanoma) with 25/25 test cases passing.
-
-🧫 **scRNA-seq Cell Annotation Pipeline**
-3-track consensus architecture combining CellTypist, marker-gene scoring, and GPT-4 label resolution per cluster for high-confidence single-cell type annotation.
-
-📊 **Multi-Omics Disease Gene Profiling**
-Consensus causal DAG analysis across 900+ genes with Tier 1 identification, drug annotation, and clinical report generation.
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://twitter.com/@shahryer_malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shahryer_malik" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sheryar-malik-621182280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/9nrawvmbhvjjxtrp/?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shahryer_malik?igsh=czg3dzyxenhnejjy&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
@@ -65,12 +47,4 @@ Consensus causal DAG analysis across 900+ genes with Tier 1 identification, drug
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shari01&show_icons=true&locale=en&layout=compact" alt="shari01" />
 </p>
