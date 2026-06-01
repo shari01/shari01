@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheryar Malik</h1>
 <h3 align="center">Bioinformatics Scientist · AI Engineer · Data Scientist · Researcher</h3>
-<h4 align="center">Bioinformatics Engineer | AI-Driven Genomics | NGS Data Analysis | Scalable Multi-omics Pipelines | LLM & Agentic AI Systems | Precision Medicine |</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shari01&label=Profile%20views&color=0e75b6&style=flat" alt="shari01" />
@@ -48,10 +47,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-<a href="https://openai.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/></a>
 <a href="https://www.anthropic.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg" alt="anthropic claude" width="40" height="40"/></a>
 <a href="https://huggingface.co" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
-<a href="https://langchain.com" target="_blank"><img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" alt="langchain" width="40" height="40"/></a>
 <a href="https://platform.openai.com/docs/guides/gpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/></a>
 <a href="https://github.com/features/copilot" target="_blank"><img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="github copilot" width="40" height="40"/></a>
 <a href="https://www.cursor.com" target="_blank"><img src="https://www.cursor.com/favicon.ico" alt="cursor" width="40" height="40"/></a>
