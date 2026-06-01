@@ -10,7 +10,7 @@
 
 ### 🧬 About Me
 
-- 🔭 Currently working as a **Bioinformatics Scientist** at **Ayass Bioscience, Texas, USA**
+- 🔭 Currently working as a **Bioinformatics Engineer** at **Ayass Bioscience, Texas, USA**
 - 🤖 Building **disease-agnostic Agentic AI pipelines** for drug discovery, biomarker identification, and pathway analysis — integrating LLM reasoning, PubMed mining, and multi-database validation (ChEMBL, DGIdb, OpenTargets)
 - 🎓 Pursuing **MPhil in Bioinformatics** at Hazara University, Mansehra
 - 🧠 Core expertise: **Agentic AI · LLM Engineering · Computational Oncology · Multi-Omics · scRNA-seq · NGS**
