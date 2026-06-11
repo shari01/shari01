@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheryar Malik</h1>
+<h1 align="center">Hi, I'm Sheryar Malik</h1>
 <h3 align="center">Bioinformatics Engineer · AI Engineer · Data Scientist · Researcher</h3>
 
 <p align="left">
@@ -8,20 +8,20 @@
 ---
 
 
-### 🧬 About Me
+### About Me
 
-- 🔭 Currently working as a **Bioinformatics Engineer** at **Ayass Bioscience, Texas, USA**
-- 🤖 Building **disease-agnostic Agentic AI pipelines** for drug discovery, biomarker identification, and pathway analysis — integrating LLM reasoning, PubMed mining, and multi-database validation (ChEMBL, DGIdb, OpenTargets)
-- 🎓 Pursuing **MPhil in Bioinformatics** at Hazara University, Mansehra
-- 🧠 Core expertise: **Agentic AI · LLM Engineering · Computational Oncology · Multi-Omics · scRNA-seq · NGS**
-- 👯 Open to collaborating on **precision medicine, cancer genomics, LLM-driven bioinformatics, and drug repurposing projects**
-- 📫 Reach me at **sheryarmalik1403@gmail.com**
+- Currently working as a **Bioinformatics Engineer** at **Ayass Bioscience, Texas, USA**
+- Building **disease-agnostic Agentic AI pipelines** for drug discovery, biomarker identification, and pathway analysis — integrating LLM reasoning, PubMed mining, and multi-database validation (ChEMBL, DGIdb, OpenTargets)
+- Pursuing **MPhil in Bioinformatics** at Hazara University, Mansehra
+- Core expertise: **Agentic AI · LLM Engineering · Computational Oncology · Multi-Omics · scRNA-seq · NGS**
+- Open to collaborating on **precision medicine, cancer genomics, LLM-driven bioinformatics, and drug repurposing projects**
+- Reach me at **sheryarmalik1403@gmail.com**
 
 > *"The convergence of agentic AI and multi-omics is unlocking disease mechanisms at a resolution that was unthinkable a decade ago."*
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sheryar-malik-621182280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
