@@ -11,10 +11,8 @@
 ### About Me
 
 - Currently working as a **Bioinformatics Engineer** at **Ayass Bioscience, Texas, USA**
-- Building **disease-agnostic Agentic AI pipelines** for drug discovery, biomarker identification, and pathway analysis — integrating LLM reasoning, PubMed mining, and multi-database validation (ChEMBL, DGIdb, OpenTargets)
-- Pursuing **MPhil in Bioinformatics** at Hazara University, Mansehra
-- Core expertise: **Agentic AI · LLM Engineering · Computational Oncology · Multi-Omics · scRNA-seq · NGS**
-- Open to collaborating on **precision medicine, cancer genomics, LLM-driven bioinformatics, and drug repurposing projects**
+- Building **disease-agnostic Agentic AI pipelines**
+- Core expertise: **Agentic AI · LLM Engineering · Computational Oncology · Multi-Omics · scRNA-seq · NGS Data Analysis**
 - Reach me at **sheryarmalik1403@gmail.com**
 
 > *"The convergence of agentic AI and multi-omics is unlocking disease mechanisms at a resolution that was unthinkable a decade ago."*
